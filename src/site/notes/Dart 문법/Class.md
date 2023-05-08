@@ -261,9 +261,7 @@ void main() {
 	// 실행결과 His name is chel, He has 100 power and 10.11 speed
 }
 ```
-<br>
 
----
 [[index/Index\|index/Index]]
 
 #Dart 
