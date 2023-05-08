@@ -262,6 +262,6 @@ void main() {
 }
 ```
 
-[[index/Index\|index/Index]]
+[[home\|home]]
 
 #Dart 
