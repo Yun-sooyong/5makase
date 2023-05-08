@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dart/class/"}
+{"dg-publish":true,"permalink":"/dart/class/","title":"class"}
 ---
 
 
