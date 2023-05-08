@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"home","tags":["gardenEntry"]}
+title: home
+dg-home: true
+dg-publish: true
 ---
 
 # Projects
